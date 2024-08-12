@@ -15,3 +15,5 @@ https://github.com/Akhila0911/DAA/blob/main/selection%20sort
 https://github.com/Akhila0911/DAA/blob/main/bubble%20sort
 
 https://github.com/Akhila0911/DAA/blob/main/binary%20search
+
+https://github.com/Akhila0911/DAA/blob/main/merge%20sort
